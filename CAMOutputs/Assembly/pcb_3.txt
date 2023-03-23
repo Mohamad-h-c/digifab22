@@ -1,0 +1,7 @@
+Partlist exported from C:/Users/Hiof/Desktop/DigiFab/pcb_3.sch at 12.03.2023 20:23
+
+Qty Value                      Device                              Package          Parts Description                 PROD_ID   SF_SKU    VALUE
+1   10k                        POTENTIOMETER-PTH-9MM-1/20W-20%-KIT POT-PTH-ALPS-KIT VR1   Potentiometer (Pot)         RES-09177 COM-09288 10k  
+1   2.2K                       2.2KOHM-0402-1/16W-1%               0402             R2    2.2kΩ resistor              RES-14341           2.2K 
+1   ARDUINO_UNO_R3_SHIELDBASIC ARDUINO_UNO_R3_SHIELDBASIC          UNO_R3_SHIELD    B2    Arduino R3 Shield Footprint                          
+1   HD44780LCD-1602            HD44780LCD-1602                     LCD1602          X1    HD44780 LCD                                          
